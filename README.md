@@ -106,18 +106,3 @@ multi-tenant-api/
 ├── package.json           # Dependencies & scripts
 └── README.md              # You're reading it
 ```
-
----
-
-## ✅ Submission Checklist (for Task 1)
-
-- [x] Express.js API with `/api/tenants/:id` and `/api/config/:tenantId`
-- [x] In-memory tenant model (id, name, domain, config)
-- [x] Example JSON config
-- [x] Unit tests for both endpoints
-- [x] README with setup, run, and test instructions
-- [x] Example API requests and responses
-
----
-
-🎯 Ready to use as your **backend** for Task 2 (React/Next.js frontend)!
